@@ -1,0 +1,7 @@
+key,en,addresses,frozen,unfrozen_balance_usdt,unfrozen_in_90d_usdt,unfrozen_out_90d_usdt,unfrozen_active_90d,victims
+sanctions,"US, UK and EU sanctions",355,355,0,0,0,0,
+nbctf,Israel sanctions (NBCTF),678,633,474.51,0,0,0,
+forfeiture,US forfeiture complaints,319,222,306489.13,7646840145.62,7686274163.77,7,
+judicial,Criminal fraud verdicts,642,2,139744.02,1900.0,1954.45,1,
+factory,Address-poisoning factories,17,0,723813.26,2881000.03,2553502.09,15,
+drainer,Approval drainers,369,0,77602.23,19132330.92,21865873.12,146,8337

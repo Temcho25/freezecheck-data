@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite FreezeCheck and link to https://freezecheck.org/research/"
+title: "FreezeCheck open data: USDT on TRON, measured on-chain"
+type: dataset
+authors:
+  - name: "FreezeCheck"
+    website: "https://freezecheck.org"
+    email: "hello@freezecheck.org"
+license: CC-BY-4.0
+url: "https://freezecheck.org/research/"
+repository-code: "https://github.com/Temcho25/freezecheck-data"
+keywords: [USDT, TRON, TRC-20, Tether, blacklist, freeze, address poisoning, on-chain data]
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24124768
+    description: Freeze window
+  - type: doi
+    value: 10.5281/zenodo.24124777
+    description: Unfreezes and burns
+  - type: doi
+    value: 10.5281/zenodo.24222534
+    description: Payments to frozen addresses
+  - type: doi
+    value: 10.5281/zenodo.24124771
+    description: Freeze gap
+  - type: doi
+    value: 10.5281/zenodo.24063527
+    description: Address poisoning
+  - type: doi
+    value: 10.5281/zenodo.24124775
+    description: Unnamed exchanges
