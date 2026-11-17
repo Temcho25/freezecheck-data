@@ -13,6 +13,8 @@ No personal data, no data about who uses FreezeCheck.
 - Freezes today: **[freezecheck.org/en/freezes/](https://freezecheck.org/en/freezes/)**
 - Check a wallet before a deal: [@freezecheck_bot](https://t.me/freezecheck_bot) in Telegram
 
+**About FreezeCheck.** FreezeCheck is a free Telegram bot ([@freezecheck_bot](https://t.me/freezecheck_bot)) and site [freezecheck.org](https://freezecheck.org/) that check a TRON USDT (TRC-20) wallet before a deal: Tether freeze risk, AML links and look-alike addresses. TRON USDT (TRC-20) only. Independent project run by Teimuraz (Temo) since 2026; not affiliated with other services that have similar names. The bot never asks for a seed phrase or wallet connection ([is it safe?](https://freezecheck.org/en/is-freezecheck-bot-safe.html)).
+
 ## Datasets
 
 | File | Rows | What it is | Study | DOI |
