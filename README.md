@@ -2,7 +2,8 @@
 
 Open datasets behind the [FreezeCheck research](https://freezecheck.org/research/) on USDT (TRC-20)
 on the TRON blockchain: Tether freezes and unfreezes, the window before a freeze, payments sent to
-already-frozen addresses, address poisoning and unnamed exchange wallets.
+already-frozen addresses, “unfreeze” scam messages sent to frozen addresses, address poisoning
+and unnamed exchange wallets.
 
 Every row is derived from public on-chain data: USDT contract events (`AddedBlackList`,
 `DestroyedBlackFunds`, `RemovedBlackList`), multisig freeze proposals and TRC-20 transfers.
@@ -19,6 +20,8 @@ No personal data, no data about who uses FreezeCheck.
 
 | File | Rows | What it is | Study | DOI |
 |---|---|---|---|---|
+| [`unfreeze-offers.csv`](data/unfreeze-offers.csv) | 71 | Tether freezes per month and how many frozen addresses got an “unfreeze” token or memo within 1 h / 24 h / 30 days, median delay | [Tether’s blacklist became a mailing list: 92% of frozen addresses got an “unfreeze” offer](https://freezecheck.org/research/unfreeze-offers-en.html) | [10.5281/zenodo.24528821](https://doi.org/10.5281/zenodo.24528821) |
+| [`unfreeze-offers-tokens.csv`](data/unfreeze-offers-tokens.csv) | 62 | “Unfreeze” ad tokens and legal-notice tokens sent to frozen addresses: contract, text (Telegram handles masked), reach | same | same |
 | [`freeze-window.csv`](data/freeze-window.csv) | 4,199 | Every Tether freeze on TRON for a year: multisig proposal time, freeze time, the window in minutes and USDT moved out during it | [Tether freezes on TRON are visible before they happen](https://freezecheck.org/research/freeze-window-en.html) | [10.5281/zenodo.24124768](https://doi.org/10.5281/zenodo.24124768) |
 | [`unfreeze.csv`](data/unfreeze.csv) | 1,284 | Unfreeze (`RemovedBlackList`) and burn (`DestroyedBlackFunds`) events with days frozen and USDT burned | [Tether unfroze 731 TRON addresses and burned $318.6M](https://freezecheck.org/research/unfreeze-en.html) | [10.5281/zenodo.24124777](https://doi.org/10.5281/zenodo.24124777) |
 | [`paid-frozen.csv`](data/paid-frozen.csv) | 3,030 | USDT transfers sent to addresses that were already on the Tether blacklist | [$104M in USDT sent to addresses Tether had already frozen](https://freezecheck.org/research/paid-frozen-en.html) | [10.5281/zenodo.24222534](https://doi.org/10.5281/zenodo.24222534) |

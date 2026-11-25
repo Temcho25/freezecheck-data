@@ -1,0 +1,63 @@
+token_contract,token_text_contact_masked,kind,frozen_addresses_reached,frozen_pct,control_addresses_reached,first_seen_utc,last_seen_utc
+TJXUL2YGcoVaNpFpNrQ9FjeE5AVMMSk6UJ,TG: j…u unfrozen U JD,unfreeze_offer,6812,81.62,0,2026-07-16,2026-07-24
+TXpRfhboPejMa1C6zZ2DRVAqk8Wn8WJg1t,UNFREEZE TG:U…9 UNFREEZE,unfreeze_offer,928,11.12,0,2026-04-08,2026-11-25
+TFc7J827FimhBLZ5VPBqxghP5DACnjesMe,解冻TG:U…8 解冻TG:U…8,unfreeze_offer,736,8.82,0,2026-05-11,2026-07-22
+TEkqTGu8Mwr5e3shF1sEMEUTdRMTrdVfSv,TG:U…9 UNFREEZE UNBANNED,unfreeze_offer,623,7.46,0,2026-04-09,2026-10-21
+TR9X4YXxsipToLcH3Bch7fddY5YUfucbox,解封UNFREEZE TG U…9,unfreeze_offer,600,7.19,0,2026-05-15,2026-11-24
+TBRZ5CYoRsthqjxkRPg2ciFqtYLDK1b2LA,FREEZE(TG:J…8) FREEZE,unfreeze_offer,526,6.3,0,2026-02-15,2026-04-23
+TDrgqK87dcxgEhGp61xaYRr1E1gt7ffTHz,TG: j…u unfrozen U JD,unfreeze_offer,509,6.1,0,2026-07-15,2026-07-15
+TAsYTtbDq5JSi9mRttXbb567vWjrNJeY2A,TG:U…G UNBANNED UNFREEZE,unfreeze_offer,423,5.07,0,2026-04-19,2026-10-29
+TLXr1zFpTsFNQjQ8GZMn2uuzcZo5yg1eDJ,UNBANNED TG:U…G UNBANNED,unfreeze_offer,421,5.04,0,2026-04-19,2026-11-20
+TToAYohgH3EAhtyEqg4G89UpkVSARg2wVV,FREEZE(TG:J…8) FREEZE(TG:J…8),unfreeze_offer,400,4.79,0,2026-03-23,2026-09-03
+TPYRJeSurM4YkEVAbNXpi3HuKy4pV4qPmd,UNLOCK TG:@U…t UNLOCK,unfreeze_offer,233,2.79,0,2026-08-12,2026-08-13
+TDrKQw9JWdAx5uyzmtK3M71zoQYZNt4UXc,U解冻联系TG:S…7 U解冻联系TG:S…7,unfreeze_offer,204,2.44,0,2026-04-13,2026-04-28
+TJ7Xq3jJTdMhq1jR5ZrhL7wmuevRtmawuA,tg: U…D HELPUNFREEZE,unfreeze_offer,111,1.33,0,2026-10-02,2026-11-16
+TJZZcn1cpLnrTW1YqsoYdspXreA3Exj3et,TG:J…8 unfrozen U,unfreeze_offer,108,1.29,0,2026-09-04,2026-09-13
+TNVd8VBGWUjhHy1dtcmmwuXmBVyy6MUW16,unfreeze unfrozen,unfreeze_offer,99,1.19,0,2026-07-10,2026-07-10
+TPYWCfhoNBoTnbMAsXLasPsj1a54dksE8a,NOTICE NOTICE: You are being served court,legal_notice,41,0.49,0,2026-09-25,2026-09-25
+TH515pJoLrM2wHZPRjkMeGNYS4ZBcp4qHL,Legal Notice Notice of Legal Proceedings,legal_notice,41,0.49,0,2026-07-20,2026-08-06
+TExQMuKSnuxYGnPwC65LoF4uDdugvUf5qv,专业解封TG:J…5 Tsdsdsgr,unfreeze_offer,38,0.46,0,2026-07-22,2026-07-25
+TLNDDZQ9VGYPCgSeyJGPCRqk94rwC1eVmX,RAZBLOK RU TG:U…6 RAZBLOK,unfreeze_offer,27,0.32,0,2026-07-07,2026-07-17
+TL6KWDLpvavGkqjtW1RXAPjcyUzSB1YyGJ,UNFREEZE TG:U…0 OFFICIAL LAWYER HELP,unfreeze_offer,21,0.25,0,2026-11-16,2026-11-19
+TFbdLKHFRR2HtYK42jHbGXbCujkdX4eueJ,HCA 82/2026 LEGAL DOCUMENTS HCA 82/2026 LEGAL DOCUMENTS,legal_notice,19,0.23,0,2026-03-18,2026-07-24
+TGXnpa3zhtL7qGKz1dTGZmqrBC3Kb9gkzK,UNFREEZ UNFREEZ TG: K…P,unfreeze_offer,19,0.23,0,2026-10-24,2026-10-24
+TC6ScLRTWNXBikcXzWgatx862H1VbmHj1B,FREEZE(TG:J…8) FREEZE(TG:J…8),unfreeze_offer,17,0.2,0,2026-03-22,2026-03-22
+TCrCQMfGfQSDoLZGBXFp9GXkHXF3QeKzPB,U…E U…e,unfreeze_offer,9,0.11,0,2026-07-14,2026-07-24
+TWHwuAaUUbCpVCXV7xGhqp32Hwj5fcRRmx,NOTICE Legal Notice,legal_notice,9,0.11,0,2026-02-23,2026-09-02
+TGyTHRLnwBTD2oRjX3oV6rd3hVAYv7ac8b,RU TG:U…6 RU UNLOCK,unfreeze_offer,8,0.1,0,2026-07-07,2026-07-14
+TF8DhU4683UFbK5D5Re3DzGApqAcFzwVRB,TG:J…5 专业解封,unfreeze_offer,7,0.08,0,2026-07-22,2026-07-22
+TCX6UrdZeDtdrbcDJfTC8UnNpuKNRmXYPB,CNTRX CourtNoticeTRC721,legal_notice,6,0.07,0,2026-07-09,2026-10-22
+TZ7Gcxy87GQzGDp5ueDyMAC8A2T5fn9BFR,TG:u…7 UNLOCKX,unfreeze_offer,6,0.07,0,2026-11-20,2026-11-24
+TXeu453QuPu2E1ND823bPGFJ5ERA4pTX9j,NOTICE_MCSO MCSO 25007889 NOTICE OF SEIZURE,legal_notice,5,0.06,0,2025-12-04,2025-12-04
+TZ4sLpRZDbRsn7faPneBQpqdQP1mjzknXz,LegalNotice HCA 570of2025,legal_notice,5,0.06,0,2025-05-07,2025-05-07
+TUyxrAa9Akbhmw2m1Uac5J7usnrBp8vdok,LegalNotice HCA 870of2025,legal_notice,5,0.06,0,2025-05-08,2025-05-08
+TSiCx2tTNYedd1rSf8HPkWtGQFoVsqXbFY,LegalNotice HCA 870aof2025,legal_notice,5,0.06,0,2025-05-12,2025-05-12
+TSstzj74HCp9SXRPrCZ8JovK7EoKfAaQ9A,LegalNotice HCA 870bof2025,legal_notice,5,0.06,0,2025-05-14,2025-05-14
+TVp1teGJZk1XK4jrxmvu4DTLApkuo5URYi,LegalNotice HCA 870cof2025,legal_notice,5,0.06,0,2025-05-15,2025-05-15
+TYGLiFsujzuiBWm42f4dgiEwT7PsvrLDkm,LegalNotice HCA 870dof2025,legal_notice,5,0.06,0,2025-06-09,2025-06-09
+TRz4epXT5NXNE3p2v4or2EJPJ9yav1i7cF,LegalNotice HCA 870eof2025,legal_notice,5,0.06,0,2025-07-15,2025-07-15
+TGRaLketCMioFY5zVfxX5u5bG4MdmvehVh,LegalNotice HCA 870fof2025,legal_notice,5,0.06,0,2025-08-22,2025-08-22
+TEHJATvzmSe5K6ShpPbThQ3yY6bLVENJoQ,LegalNotice HCA 870gof2025,legal_notice,5,0.06,0,2025-09-15,2025-09-15
+TJ614gubpa7nFyr14fkg6o21ndh2PrPNJi,Seizure_Notice Notice Of Seizure - View and Respo,legal_notice,4,0.05,0,2025-05-15,2025-05-15
+TLhYHQatauDtZ4iNCePU26WbVjsXtMPdoN,LEGAL Legal Notice NFT,legal_notice,4,0.05,0,2025-08-21,2025-08-21
+TPyVSq9Wthn1FGHRXabXak9kw1gvsn9TYS,AMLF AMLFreezeToken,unfreeze_offer,4,0.05,0,2026-04-23,2026-04-23
+TLD4pHWTJn9UBb4t1qLmheNS5tz5SVDi9t,U解冻-联系TG:J…1 U解冻-联系TG:J…1,unfreeze_offer,4,0.05,0,2026-05-13,2026-05-13
+TTaW2mBYS4PrtR5KAJPuVJnqraUiyaVat3,NOTICE_LAWSUIT NOTICE OF A LAWSUIT,legal_notice,2,0.02,0,2025-01-22,2025-01-22
+TWd4rCCsm7FFQy3MrnWX6dDTnyP8SiCsTC,NOTICE Second Motion for Alternative Serv,legal_notice,2,0.02,0,2026-10-06,2026-10-06
+TLk3rbbTbatv8viseDcurdtYcjzvKgCkgw,CNTRX CourtNoticeTRC721,legal_notice,2,0.02,0,2026-05-11,2026-05-11
+TV6KB9LiV5xszUTAeifk2TSAQEMau2MYgG,VCUN VCU Notices,legal_notice,2,0.02,0,2026-11-13,2026-11-13
+TSe96xvwCscegu5i9jQY8JRuaQLZL6rEgS,РАЗБЛОК TG:U…6 Crypto Recovery,unfreeze_offer,2,0.02,0,2026-07-07,2026-07-07
+TTxcRmBotYnWU69F1TPV2KGiow9cDJu9i5,LegalAMLNotice Legal Notice HCA2417of2024 AML Fre,legal_notice,1,0.01,0,2024-12-10,2024-12-10
+TJEGkFcyNidj1DkNuU7EpR7eQf6ZYjrvMC,Doc131224Hearing Court documents for hearing on 13,legal_notice,1,0.01,0,2024-12-12,2024-12-12
+TNd3SX6A56G4Ft5UhsBHu5Vxvng2z7n3iq,LDT2JAN25 2-Jan25-Notice,legal_notice,1,0.01,0,2025-01-03,2025-01-03
+TLjTjzX3qygDzZheKMJtKhPvYhVzAGFuht,U解冻联系TG：@J…7 U解冻联系TG：@J…7,unfreeze_offer,1,0.01,0,2026-11-19,2026-11-19
+TY6CaDowYdkbVQRTCddn4Rc7y4AVBBidXv,LEGAL NOTICE LEGAL NOTICE,legal_notice,1,0.01,0,2025-05-30,2025-05-30
+TJpZTpDbcwg1nv1EiEpCPZ2wbHLf5siYYU,LEGAL DOCUMENTS LEGAL DOCUMENTS,legal_notice,1,0.01,0,2025-05-30,2025-10-14
+TAmK5fCiXzaebxzYSmpBERLR3UecFacZuf,UNBAN U…T,unfreeze_offer,1,0.01,0,2026-09-09,2026-09-09
+TVWapKhFxBPhvK84F5n174XDYCjjZ72fvL,USDT_Seizure Notice of Seizure,legal_notice,1,0.01,0,2026-07-08,2026-07-08
+TXL9jH9Stj5st2DxAKiSNXxCV5Vhb5TCWw,U解冻联系TG:S…7 U解冻联系TG:S…7,unfreeze_offer,1,0.01,0,2026-04-28,2026-04-28
+TXTB2qRrdp3eR9CKWjWSPKvH496kkmM7JC,UNLCK RU: UNLOCK (TG u…6),unfreeze_offer,1,0.01,0,2026-07-07,2026-07-07
+TSkPE7gUkqTrLh2AQppgDTmkgwcD1Dafk2,РАЗБЛОК TG:U…6 USDT Recovery,unfreeze_offer,1,0.01,0,2026-07-07,2026-07-07
+TMWF56Xusfdchm3RNyhSDC6n4SjXewzWDP,UNLOCK TG: @U…t,unfreeze_offer,1,0.01,0,2026-08-12,2026-08-12
+TXayMx8cit1K9Bmt12geVz3DxgwsoAXNFm,TG:U…9 UNBANNED TRC,unfreeze_offer,1,0.01,0,2026-08-25,2026-08-25
+TJfGqWuF9K6q4iXfMGSYQdTv84rWtYXswh,tg: U…D HELP UNFREEZE,unfreeze_offer,1,0.01,0,2026-10-01,2026-10-01
